@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Age_calculator-ReactJS-main/static/css/main.073c9b0a.css",
+    "main.js": "/Age_calculator-ReactJS-main/static/js/main.77634e7f.js",
+    "static/js/787.9a1ec5b8.chunk.js": "/Age_calculator-ReactJS-main/static/js/787.9a1ec5b8.chunk.js",
+    "index.html": "/Age_calculator-ReactJS-main/index.html",
+    "main.073c9b0a.css.map": "/Age_calculator-ReactJS-main/static/css/main.073c9b0a.css.map",
+    "main.77634e7f.js.map": "/Age_calculator-ReactJS-main/static/js/main.77634e7f.js.map",
+    "787.9a1ec5b8.chunk.js.map": "/Age_calculator-ReactJS-main/static/js/787.9a1ec5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.77634e7f.js"
+  ]
+}
